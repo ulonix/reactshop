@@ -1,6 +1,6 @@
 import React from 'react';
-import CatalogoItem from './CatalogoItem';
 import faker from 'faker';
+import CatalogoItem from './CatalogoItem';
 import Wishlist from './Wishlist';
 
 const Catalogo = () => {
